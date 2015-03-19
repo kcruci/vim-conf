@@ -1,0 +1,5 @@
+# depend on
+
+
+*cscope
+*ctags
