@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/david.luan/webgame/server/workerserver'
+let g:netrw_dirhist_2='/home/david.luan/zeromq-4.0.4/src'
+let g:netrw_dirhist_3='/etc/ld.so.conf.d'
+let g:netrw_dirhist_4='/home/andre.zhang/cmake_test/ngx_rbtree_test'
+let g:netrw_dirhist_5='/var/crash'
+let g:netrw_dirhist_6='/home/david.luan/networkframe/util'
